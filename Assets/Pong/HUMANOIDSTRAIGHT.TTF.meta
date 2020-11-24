@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9d2540b1f186b2b4db9943deaa4d69aa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Humanoid straight
+  fontNames:
+  - Humanoid straight
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 487499018b5c6e5468fd7db1ffb55a85, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

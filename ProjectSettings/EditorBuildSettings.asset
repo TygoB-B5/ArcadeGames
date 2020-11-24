@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 8bef9ab417a104d418d6aebe957ce113
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Platformer0.unity
+    guid: 278c18331d5cb0e42875822a939a70ae
+  - enabled: 1
+    path: Assets/Arkanoid/Arkanoid.unity
+    guid: ff1b5d673468be5488e75487467c2070
+  - enabled: 1
+    path: Assets/Pong/Pong.unity
+    guid: 4547388e3e27d244cb2c5846474e6d37
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Platformer1.unity
+    guid: 441572a8951b2b74781064728648a126
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Platformer2.unity
+    guid: 7e40ae58a306ecb46af9d41f4a91185c
+  - enabled: 1
+    path: Assets/Platformer/Scenes/Platformer3.unity
+    guid: 6ac04c91429589a4e9661e77118ac36e
+  m_configObjects: {}
